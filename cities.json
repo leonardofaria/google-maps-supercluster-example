@@ -1,0 +1,4068 @@
+{
+  "cities": [
+    {
+        "id": 61,
+        "name": "St. Mary's",
+        "latitude": 43.2595868,
+        "longitude": -81.140653,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 9,
+        "name": "Langley",
+        "latitude": 49.0730431,
+        "longitude": -122.5727084,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 40,
+        "name": "Squamish",
+        "latitude": 49.7016339,
+        "longitude": -123.1558121,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 78,
+        "name": "Porto Alegre",
+        "latitude": -30.0368176,
+        "longitude": -51.2089887,
+        "state": "Rio Grande do Sul",
+        "country": "Brazil"
+    },
+    {
+        "id": 31,
+        "name": "Ottawa",
+        "latitude": 45.4215296,
+        "longitude": -75.69719309999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 39,
+        "name": "Pickering",
+        "latitude": 43.83841169999999,
+        "longitude": -79.0867579,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 24,
+        "name": "West Kelowna",
+        "latitude": 49.863612,
+        "longitude": -119.5644584,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 88,
+        "name": "Saskatoon",
+        "latitude": 52.157902,
+        "longitude": -106.6701577,
+        "state": "SK",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 65,
+        "name": "Burlington",
+        "latitude": 43.3255196,
+        "longitude": -79.7990319,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 33,
+        "name": "Sudbury",
+        "latitude": 46.4917317,
+        "longitude": -80.99302899999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 45,
+        "name": "Vaughan",
+        "latitude": 43.8563158,
+        "longitude": -79.5085383,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 52,
+        "name": "West Vancouver",
+        "latitude": 49.3286251,
+        "longitude": -123.1601982,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 89,
+        "name": "Westbank",
+        "latitude": 49.2885694,
+        "longitude": -123.1182689,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 85,
+        "name": "Bengaluru",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "state": "KARNATAK",
+        "country": "India"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 47,
+        "name": "Saint John",
+        "latitude": 45.2733153,
+        "longitude": -66.06330799999999,
+        "state": "NB",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 92,
+        "name": "Lunenburg",
+        "latitude": 44.3770053,
+        "longitude": -64.3188354,
+        "state": "NS",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 42,
+        "name": "Coldstream",
+        "latitude": 50.223641,
+        "longitude": -119.2282049,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 74,
+        "name": "Cheboksary",
+        "latitude": 56.11676629999999,
+        "longitude": 47.262782,
+        "state": "Chuvashia",
+        "country": "Russian Federation"
+    },
+    {
+        "id": 35,
+        "name": "Salt Spring Island",
+        "latitude": 48.81677879999999,
+        "longitude": -123.5095943,
+        "state": "",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 46,
+        "name": "Minden",
+        "latitude": 44.9271767,
+        "longitude": -78.725375,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 50,
+        "name": "Caledon",
+        "latitude": 43.8363372,
+        "longitude": -79.87448359999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 50,
+        "name": "Caledon",
+        "latitude": 43.8363372,
+        "longitude": -79.87448359999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 23,
+        "name": "Kitchener",
+        "latitude": 43.4516395,
+        "longitude": -80.4925337,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 40,
+        "name": "Squamish",
+        "latitude": 49.7016339,
+        "longitude": -123.1558121,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 41,
+        "name": "Kelowna",
+        "latitude": 49.8879519,
+        "longitude": -119.4960106,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 44,
+        "name": "Chilliwack",
+        "latitude": 49.1579401,
+        "longitude": -121.9514666,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 64,
+        "name": "Grande Digue",
+        "latitude": 46.299284,
+        "longitude": -64.5625799,
+        "state": "NB",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 54,
+        "name": "Stratford",
+        "latitude": 43.3700007,
+        "longitude": -80.98222860000001,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 72,
+        "name": "Montreal",
+        "latitude": 45.5016889,
+        "longitude": -73.567256,
+        "state": "QC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 81,
+        "name": "Uxbridge",
+        "latitude": 44.10940280000001,
+        "longitude": -79.12049979999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 11,
+        "name": "Port Coquitlam",
+        "latitude": 49.2628382,
+        "longitude": -122.7810708,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 96,
+        "name": "Jundiaí",
+        "latitude": -23.1856528,
+        "longitude": -46.8892222,
+        "state": "São Paulo",
+        "country": "Brazil"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 91,
+        "name": "São Paulo",
+        "latitude": -23.5557714,
+        "longitude": -46.6395571,
+        "state": "SP",
+        "country": "Brazil"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 36,
+        "name": "Etobicoke",
+        "latitude": 43.6204946,
+        "longitude": -79.5131983,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 55,
+        "name": "Gibsons",
+        "latitude": 49.3974171,
+        "longitude": -123.5152222,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 14,
+        "name": "Halfmoon Bay",
+        "latitude": 49.513965,
+        "longitude": -123.905929,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 36,
+        "name": "Etobicoke",
+        "latitude": 43.6204946,
+        "longitude": -79.5131983,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 84,
+        "name": "Guarulhos",
+        "latitude": -23.4543137,
+        "longitude": -46.5336643,
+        "state": "São Paulo",
+        "country": "Brazil"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 86,
+        "name": "Prayagraj",
+        "latitude": 25.4358011,
+        "longitude": 81.846311,
+        "state": "Uttar Pradesh",
+        "country": "India"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 18,
+        "name": "Maple Ridge",
+        "latitude": 49.2193226,
+        "longitude": -122.5983981,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 94,
+        "name": "Toronto,",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 98,
+        "name": "Jaboatão Dos Guararapes",
+        "latitude": -8.1688125,
+        "longitude": -34.920874,
+        "state": "PE",
+        "country": "Brazil"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 90,
+        "name": "Garibaldi Highlands",
+        "latitude": 49.7426133,
+        "longitude": -123.1218908,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 9,
+        "name": "Langley",
+        "latitude": 49.0730431,
+        "longitude": -122.5727084,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 70,
+        "name": "Issaquah",
+        "latitude": 47.5301011,
+        "longitude": -122.0326191,
+        "state": "WA",
+        "country": "United States"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 17,
+        "name": "Ucluelet",
+        "latitude": 48.9415997,
+        "longitude": -125.5463446,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 44,
+        "name": "Chilliwack",
+        "latitude": 49.1579401,
+        "longitude": -121.9514666,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 65,
+        "name": "Burlington",
+        "latitude": 43.3255196,
+        "longitude": -79.7990319,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 76,
+        "name": "Chelsea",
+        "latitude": 45.5401738,
+        "longitude": -75.867482,
+        "state": "QC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 40,
+        "name": "Squamish",
+        "latitude": 49.7016339,
+        "longitude": -123.1558121,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 32,
+        "name": "Meaford",
+        "latitude": 44.6059438,
+        "longitude": -80.5936871,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 18,
+        "name": "Maple Ridge",
+        "latitude": 49.2193226,
+        "longitude": -122.5983981,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 21,
+        "name": "Delta",
+        "latitude": 49.09521549999999,
+        "longitude": -123.0264758,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 75,
+        "name": "Stanley",
+        "latitude": 43.5896078,
+        "longitude": -79.7342634,
+        "state": "NB",
+        "country": "Canada"
+    },
+    {
+        "id": 44,
+        "name": "Chilliwack",
+        "latitude": 49.1579401,
+        "longitude": -121.9514666,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 99,
+        "name": "Carbonear",
+        "latitude": 47.7375216,
+        "longitude": -53.2294869,
+        "state": "NL",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 21,
+        "name": "Delta",
+        "latitude": 49.09521549999999,
+        "longitude": -123.0264758,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 68,
+        "name": "Hamilton",
+        "latitude": 43.2557206,
+        "longitude": -79.8711024,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 31,
+        "name": "Ottawa",
+        "latitude": 45.4215296,
+        "longitude": -75.69719309999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 37,
+        "name": "Richmond Hill",
+        "latitude": 43.8828401,
+        "longitude": -79.4402808,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 21,
+        "name": "Delta",
+        "latitude": 49.09521549999999,
+        "longitude": -123.0264758,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 73,
+        "name": "Banff",
+        "latitude": 51.17839720000001,
+        "longitude": -115.5708074,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 66,
+        "name": "Abbotsford",
+        "latitude": 49.0504377,
+        "longitude": -122.3044697,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 72,
+        "name": "Montreal",
+        "latitude": 45.5016889,
+        "longitude": -73.567256,
+        "state": "QC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 80,
+        "name": "Dieppe",
+        "latitude": 46.0952765,
+        "longitude": -64.7486638,
+        "state": "NB",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 35,
+        "name": "Salt Spring Island",
+        "latitude": 48.81677879999999,
+        "longitude": -123.5095943,
+        "state": "",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 95,
+        "name": "Santiago",
+        "latitude": -33.4488897,
+        "longitude": -70.6692655,
+        "state": "Metropolian Region",
+        "country": "Chile"
+    },
+    {
+        "id": 13,
+        "name": "Dartmouth",
+        "latitude": 44.6660885,
+        "longitude": -63.56756309999999,
+        "state": "NS",
+        "country": "Canada"
+    },
+    {
+        "id": 71,
+        "name": "Vernon",
+        "latitude": 50.2670137,
+        "longitude": -119.2720107,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 62,
+        "name": "Lake Country",
+        "latitude": 50.0536782,
+        "longitude": -119.4106448,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 57,
+        "name": "Parksville",
+        "latitude": 49.3193375,
+        "longitude": -124.3136411,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 25,
+        "name": "Whistler",
+        "latitude": 50.11616859999999,
+        "longitude": -122.9535117,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 63,
+        "name": "Martintown",
+        "latitude": 45.1545916,
+        "longitude": -74.71063389999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 77,
+        "name": "Kamloops",
+        "latitude": 50.674522,
+        "longitude": -120.3272675,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 41,
+        "name": "Kelowna",
+        "latitude": 49.8879519,
+        "longitude": -119.4960106,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 36,
+        "name": "Etobicoke",
+        "latitude": 43.6204946,
+        "longitude": -79.5131983,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 68,
+        "name": "Hamilton",
+        "latitude": 43.2557206,
+        "longitude": -79.8711024,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 39,
+        "name": "Pickering",
+        "latitude": 43.83841169999999,
+        "longitude": -79.0867579,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 52,
+        "name": "West Vancouver",
+        "latitude": 49.3286251,
+        "longitude": -123.1601982,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 33,
+        "name": "Sudbury",
+        "latitude": 46.4917317,
+        "longitude": -80.99302899999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 22,
+        "name": "Bowmanville",
+        "latitude": 43.9126042,
+        "longitude": -78.688019,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 4,
+        "name": "Oliver",
+        "latitude": 49.1823264,
+        "longitude": -119.550428,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 11,
+        "name": "Port Coquitlam",
+        "latitude": 49.2628382,
+        "longitude": -122.7810708,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 100,
+        "name": "Siegen",
+        "latitude": 50.8838492,
+        "longitude": 8.020959099999999,
+        "state": "Westphalia",
+        "country": "Germany"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 26,
+        "name": "Hanwell",
+        "latitude": 45.8902806,
+        "longitude": -66.7516364,
+        "state": "NB",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 23,
+        "name": "Kitchener",
+        "latitude": 43.4516395,
+        "longitude": -80.4925337,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 43,
+        "name": "Courtenay",
+        "latitude": 49.6841391,
+        "longitude": -124.9904494,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 20,
+        "name": "Guildford",
+        "latitude": 51.23622,
+        "longitude": -0.570409,
+        "state": "Surrey",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 19,
+        "name": "Istanbul",
+        "latitude": 41.0082376,
+        "longitude": 28.9783589,
+        "state": "Uskudar",
+        "country": "Turkey"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 48,
+        "name": "Stittsville",
+        "latitude": 45.2585131,
+        "longitude": -75.92077669999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 28,
+        "name": "Halifax",
+        "latitude": 44.64876350000001,
+        "longitude": -63.5752387,
+        "state": "NS",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 102,
+        "name": "Tavistock",
+        "latitude": 43.2358071,
+        "longitude": -80.8138705,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 36,
+        "name": "Etobicoke",
+        "latitude": 43.6204946,
+        "longitude": -79.5131983,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 30,
+        "name": "Verdun",
+        "latitude": 45.4548269,
+        "longitude": -73.5698729,
+        "state": "QC",
+        "country": "Canada"
+    },
+    {
+        "id": 31,
+        "name": "Ottawa",
+        "latitude": 45.4215296,
+        "longitude": -75.69719309999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 25,
+        "name": "Whistler",
+        "latitude": 50.11616859999999,
+        "longitude": -122.9535117,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 21,
+        "name": "Delta",
+        "latitude": 49.09521549999999,
+        "longitude": -123.0264758,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 11,
+        "name": "Port Coquitlam",
+        "latitude": 49.2628382,
+        "longitude": -122.7810708,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 9,
+        "name": "Langley",
+        "latitude": 49.0730431,
+        "longitude": -122.5727084,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 18,
+        "name": "Maple Ridge",
+        "latitude": 49.2193226,
+        "longitude": -122.5983981,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 59,
+        "name": "Lloydminster",
+        "latitude": 53.2779625,
+        "longitude": -110.0061451,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 28,
+        "name": "Halifax",
+        "latitude": 44.64876350000001,
+        "longitude": -63.5752387,
+        "state": "NS",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 31,
+        "name": "Ottawa",
+        "latitude": 45.4215296,
+        "longitude": -75.69719309999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 97,
+        "name": "Urangan",
+        "latitude": -25.293404,
+        "longitude": 152.8938496,
+        "state": "QLD",
+        "country": "Australia"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 5,
+        "name": "Port Moody",
+        "latitude": 49.2849107,
+        "longitude": -122.8677562,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 18,
+        "name": "Maple Ridge",
+        "latitude": 49.2193226,
+        "longitude": -122.5983981,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 67,
+        "name": "Middle Sackville",
+        "latitude": 44.7961745,
+        "longitude": -63.7309236,
+        "state": "NS",
+        "country": "Canada"
+    },
+    {
+        "id": 40,
+        "name": "Squamish",
+        "latitude": 49.7016339,
+        "longitude": -123.1558121,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 60,
+        "name": "Saanichton",
+        "latitude": 48.5962689,
+        "longitude": -123.4169023,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 83,
+        "name": "Georgetown",
+        "latitude": 43.6502046,
+        "longitude": -79.9036236,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 69,
+        "name": "Kingston",
+        "latitude": 44.2311717,
+        "longitude": -76.4859544,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 29,
+        "name": "Cambridge",
+        "latitude": 43.3616211,
+        "longitude": -80.3144276,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 82,
+        "name": "Bracebridge",
+        "latitude": 45.0389565,
+        "longitude": -79.3078787,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 58,
+        "name": "Mississauga",
+        "latitude": 43.5890452,
+        "longitude": -79.6441198,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 41,
+        "name": "Kelowna",
+        "latitude": 49.8879519,
+        "longitude": -119.4960106,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 65,
+        "name": "Burlington",
+        "latitude": 43.3255196,
+        "longitude": -79.7990319,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 18,
+        "name": "Maple Ridge",
+        "latitude": 49.2193226,
+        "longitude": -122.5983981,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 23,
+        "name": "Kitchener",
+        "latitude": 43.4516395,
+        "longitude": -80.4925337,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 69,
+        "name": "Kingston",
+        "latitude": 44.2311717,
+        "longitude": -76.4859544,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 93,
+        "name": "Pennfield",
+        "latitude": 45.1130529,
+        "longitude": -66.7412066,
+        "state": "NB",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 38,
+        "name": "Waterloo",
+        "latitude": 43.4642578,
+        "longitude": -80.5204096,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 79,
+        "name": "Langford",
+        "latitude": 48.44746259999999,
+        "longitude": -123.4956337,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 51,
+        "name": "Edmonton",
+        "latitude": 53.5461245,
+        "longitude": -113.4938229,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 53,
+        "name": "St Catharines",
+        "latitude": 43.1593745,
+        "longitude": -79.2468626,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 101,
+        "name": "Bangalore",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "state": "Karnataka",
+        "country": "India"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 38,
+        "name": "Waterloo",
+        "latitude": 43.4642578,
+        "longitude": -80.5204096,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 27,
+        "name": "Victoria",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 49,
+        "name": "Cumberland",
+        "latitude": 49.618806,
+        "longitude": -125.0312689,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 38,
+        "name": "Waterloo",
+        "latitude": 43.4642578,
+        "longitude": -80.5204096,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 31,
+        "name": "Ottawa",
+        "latitude": 45.4215296,
+        "longitude": -75.69719309999999,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 8,
+        "name": "Surrey",
+        "latitude": 49.1913466,
+        "longitude": -122.8490125,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 58,
+        "name": "Mississauga",
+        "latitude": 43.5890452,
+        "longitude": -79.6441198,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 23,
+        "name": "Kitchener",
+        "latitude": 43.4516395,
+        "longitude": -80.4925337,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 40,
+        "name": "Squamish",
+        "latitude": 49.7016339,
+        "longitude": -123.1558121,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 10,
+        "name": "Calgary",
+        "latitude": 51.04473309999999,
+        "longitude": -114.0718831,
+        "state": "AB",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 56,
+        "name": "Oak Bay",
+        "latitude": 48.4264814,
+        "longitude": -123.3141267,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 16,
+        "name": "Toronto",
+        "latitude": 43.653226,
+        "longitude": -79.3831843,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 12,
+        "name": "Richmond",
+        "latitude": 49.1665898,
+        "longitude": -123.133569,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 34,
+        "name": "Pitt Meadows",
+        "latitude": 49.2190648,
+        "longitude": -122.6895165,
+        "state": "",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 1,
+        "name": "Burnaby",
+        "latitude": 49.2488091,
+        "longitude": -122.9805104,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 6,
+        "name": "Coquitlam",
+        "latitude": 49.2837626,
+        "longitude": -122.7932065,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 7,
+        "name": "New Westminster",
+        "latitude": 49.2057179,
+        "longitude": -122.910956,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 36,
+        "name": "Etobicoke",
+        "latitude": 43.6204946,
+        "longitude": -79.5131983,
+        "state": "ON",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 2,
+        "name": "Vancouver",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375,
+        "state": "BC",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "North Vancouver",
+        "latitude": 49.3199816,
+        "longitude": -123.0724139,
+        "state": "BC",
+        "country": "Canada"
+    }
+  ]
+}
